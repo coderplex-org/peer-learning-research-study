@@ -12,4 +12,4 @@ We will provide the group some level of guidance on how to approach learning tha
 We will try to use multiple measurements
 - Self evaluation and feedback on their experience on a weekly basis (do they think their learning has improved or not)
 - Performance in coding challenges (if relevant)
- 
+- Ability to build projects and quality of projects (can be reviewed by a mentor / expert)
